@@ -4,7 +4,7 @@ lista.sort()// var.sort() serve para ordenar a lista
 lista.push(5) //push é equilavente ao append do python, serve para adicionar itens na lista
 
 console.log(lista) 
-console.log(`${lista[2]} é um número par, e ${lista[0]} é ímpar`)
+console.log(`${lista[3]} é um número par, e ${lista[5]} é ímpar`)
 
 console.log('--------  --------  --------  --------')
 
